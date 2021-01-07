@@ -1,2 +1,2 @@
 # Data Science Days
-> My hands-on project experiments with mathematical models to become a complete data scientist:octocat:
+> This repository's objective is to make comphrehensive learning materials easily accesible for beginners to become a professional data scientist:octocat:
