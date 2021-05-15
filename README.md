@@ -44,8 +44,8 @@
 2. [Networks, Crowds, and Markets – David Easley and Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 3. [Graph Representation Learning – William L Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
-## Open Resources:rocket:
-### Online Learning
+## Online Learning:rocket:
+### Free Courses
 1. [Fast.ai](https://www.fast.ai/)
 2. [freeCodeCamp](https://www.freecodecamp.org/)
 3. [Seeing Theory](https://seeing-theory.brown.edu/)
@@ -75,7 +75,7 @@
 - [MIT 6.851 Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
 - [MIT 6.854J Advanced Algorithms](https://www.youtube.com/playlist?list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh)
 
-### University Courses
+### Open University Courses
 - [Caltech CS156: Learning From Data](https://work.caltech.edu/telecourse)
 - [Stanford: NLP with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
 - [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
@@ -98,16 +98,8 @@
 - [GeorgiaTech MATH 1554: Linear Algebra – Greg Mayer](https://gatech.instructure.com/courses/114544)
 - [Foundations of Machine Learning – David S. Rosenberg, Bloomberg ML EDU](https://bloomberg.github.io/foml)
 
-### Free Assessments
-1. [RealPython Quizzes](https://realpython.com/quizzes/)
-2. [HackerRank Skills Certification](https://www.hackerrank.com/skills-verification)
-3. [DataCamp Signal](https://www.datacamp.com/signal)
-4. [Workera Data-AI Skills Assessments](https://workera.ai/)
-5. [Data Science Readiness – NotreDameX](https://www.edx.org/course/data-science-readiness-assessment)
-
 ## Popular MOOCs:rocket:
 ### Coursera
-- [Machine Learning – Andrew Ng, Stanford](https://www.coursera.org/learn/machine-learning)
 - [AI For Everyone – DeepLearning.AI](https://www.coursera.org/learn/ai-for-everyone)
 - [Deep Learning Specialization – DeepLearning.AI](https://www.coursera.org/specializations/deep-learning)
 - [Natural Language Processing Specialization – DeepLearning.AI](https://www.coursera.org/specializations/natural-language-processing)
@@ -115,26 +107,25 @@
 - [Algorithms Specialization – Tim Roughgarden, Stanford](https://www.coursera.org/specializations/algorithms)
 - [Introduction to Mathematical Thinking – Keith Delvin, Stanford](https://www.coursera.org/learn/mathematical-thinking)
 - [Probabilistic Graphical Models Specialization – Daphne Koller, Stanford](https://www.coursera.org/specializations/probabilistic-graphical-models)
+- [Functional Programming in Scala Specialization – Martin Odersky, EPFL](https://www.coursera.org/specializations/scala)
+- [Building Cloud Computing Solutions at Scale Specialization – Duke](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
+- [Data Science Math Skills – Duke](https://www.coursera.org/learn/datasciencemathskills)
+- [Mathematics for Machine Learning Specialization – Imperial College](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Mathematics for Data Science Specialization – HSE University](https://www.coursera.org/specializations/mathematics-for-data-science)
+- [Introduction to Discrete Mathematics Specialization – HSE University](https://www.coursera.org/specializations/discrete-mathematics)
+- [Advanced Machine Learning Specialization – HSE University](https://www.coursera.org/specializations/aml)
 - [Python 3 Programming Specialization – Michigan](https://www.coursera.org/specializations/python-3-programming)
-- [Problem Solving Using Computational Thinking – Michigan](https://www.coursera.org/learn/compthinking)
 - [Django for Everybody Specialization – Michigan](https://www.coursera.org/specializations/django)
-- [Statistics with Python Specialization – Michigan](https://www.coursera.org/specializations/statistics-with-python)
 - [Applied Data Science with Python Specialization – Michigan](https://www.coursera.org/specializations/data-science-python)
 - [Data Structures and Algorithms Specialization – UC San Diego](https://www.coursera.org/specializations/data-structures-algorithms)
 - [Big Data Specialization – UC San Diego](https://www.coursera.org/specializations/big-data)
-- [Bioinformatics Specialization – UC San Diego](https://www.coursera.org/specializations/bioinformatics)
-- [Introduction to Discrete Mathematics – UC San Diego](https://www.coursera.org/specializations/discrete-mathematics)
-- [Mathematics for Data Science Specialization – HSE University](https://www.coursera.org/specializations/mathematics-for-data-science)
-- [Advanced Machine Learning Specialization – HSE University](https://www.coursera.org/specializations/aml)
-- [Building Cloud Computing Solutions at Scale Specialization – Duke](https://www.coursera.org/specializations/building-cloud-computing-solutions-at-scale)
-- [Mathematics for Machine Learning Specialization – Imperial College](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Learn SQL Basics for Data Science Specialization – UCDavis](https://www.coursera.org/specializations/learn-sql-basics-data-science)
-- [Functional Programming in Scala Specialization – Martin Odersky, EPFL](https://www.coursera.org/specializations/scala)
 - [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts)
-- [Data Science Math Skills – Daniel Egger, Duke](https://www.coursera.org/learn/datasciencemathskills)
-- [Introduction to Machine Learning – Lawrence Carin, Duke](https://www.coursera.org/learn/machine-learning-duke)
+- [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+- [Microsoft Azure Fundamentals AZ-900 Specialization](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)
+- [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
 
 ### edX
 - [CS50's Introduction to Computer Science – HarvardX](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
@@ -144,54 +135,46 @@
 - [Introduction to Probability – HarvardX](https://www.edx.org/course/introduction-to-probability)
 - [Reproducible Data Science – HarvardX](https://www.edx.org/course/principles-statistical-and-computational-tools-for)
 - [Using Python for Research – HarvardX](https://www.edx.org/course/using-python-for-research)
-- [Data Science Professional Certificate (Using R) – HarvardX](https://www.edx.org/professional-certificate/harvardx-data-science)
-- [Data Analysis for Life Sciences (Using R) – HarvardX](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-life-sciences)
-- [Data Analysis for Genomics (Using R) – HarvardX](https://www.edx.org/professional-certificate/harvardx-data-analysis-for-genomics)
-- [Statistical Learning (Using R) – StanfordOnline](https://www.edx.org/course/statistical-learning)
-- [Convex Optimization – StanfordOnline](https://www.edx.org/course/convex-optimization)
 - [Computational Thinking Using Python – MITx](https://www.edx.org/xseries/mitx-computational-thinking-using-python)
 - [Statistics and Data Science MicroMasters Program – MITx](https://www.edx.org/micromasters/mitx-statistics-and-data-science)
+- [Single Variable Calculus – MIT18.01x](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
+- [Multivariable Calculus – MIT18.02x](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives)
+- [Differential Equations – MIT18.03x](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
 - [Foundations of Data Science Professional Certificate – BerkeleyX](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science)
 - [Algorithms and Data Structures MicroMasters Program – UCSanDiegoX](https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures)
 - [Data Science MicroMasters Program – UCSanDiegoX](https://www.edx.org/micromasters/uc-san-diegox-data-science)
 - [Cloud Computing MicroMasters Program – MarylandX](https://www.edx.org/micromasters/usmx-umgc-cloud-computing)
-- [Computer Science Fundamentals MicroMasters Program – NYUx](https://www.edx.org/microbachelors/nyux-computer-science-fundamentals)
 - [Introduction to Databases MicroMasters Program – NYUx](https://www.edx.org/microbachelors/nyux-introduction-to-databases)
-- [Django for Everybody XSeries Program – MichiganX](https://www.edx.org/xseries/michiganx-django-for-everybody)
-- [The Math of Data Science: Linear Algebra – RICEx](https://www.edx.org/course/math-of-data-science-linear-algebra)
 - [MathTrackX XSeries Program – AdelaideX](https://www.edx.org/xseries/adelaidex-math-trackx)
-- [Single Variable Calculus – MIT18.01x](https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus)
-- [Multivariable Calculus – MIT18.02x](https://www.edx.org/course/multivariable-calculus-1-vectors-and-derivatives)
-- [Differential Equations – MIT18.03x](https://www.edx.org/xseries/mitx-18.03x-differential-equations)
+- [The Math of Data Science: Linear Algebra – RICEx](https://www.edx.org/course/math-of-data-science-linear-algebra)
 - [Linear Algebra: Foundations to Frontiers (LAFF) – UTAustinX](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
 - [Advanced Linear Algebra: Foundations to Frontiers (ALAFF) – UTAustinX](https://www.edx.org/course/advanced-linear-algebra-foundations-to-frontiers)
 - [Mathematical and Computational Methods – GeorgetownX](https://www.edx.org/course/mathematical-and-computational-methods)
+- [Statistical Learning (Using R) – StanfordOnline](https://www.edx.org/course/statistical-learning)
+- [Convex Optimization – StanfordOnline](https://www.edx.org/course/convex-optimization)
 
 ### Udacity
 - [Introduction to Python Programming – Juno Lee](https://www.udacity.com/course/introduction-to-python--ud1110)
-- [Intro to Algorithms](https://www.udacity.com/course/intro-to-algorithms--cs215)
-- [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 - [Intro to Statistics – Sebastian Thrun](https://www.udacity.com/course/intro-to-statistics--st101)
 - [Intro to Data Science – Dave Holtz, Cheng-Han Lee](https://www.udacity.com/course/intro-to-data-science--ud359)
 - [Introduction to Machine Learning – Sebastian Thrun, Katie Malone](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [Intro to Artificial Intelligence – Sebastian Thrun, Peter Norvig](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-- [Model Building and Validation – AT&T](https://www.udacity.com/course/model-building-and-validation--ud919)
 - [Intro to Deep Learning with Pytorch – Facebook AI](https://www.udacity.com/course/deep-learning-pytorch--ud188)
 - [Intro to Tensorflow for Deep Learning – Google](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
+- [Model Building and Validation – AT&T](https://www.udacity.com/course/model-building-and-validation--ud919)
+- [Design of Computer Programs – Peter Norvig](https://www.udacity.com/course/design-of-computer-programs--cs212)
+- [Intro to Algorithms – Michael Littman](https://www.udacity.com/course/intro-to-algorithms--cs215)
+- [Introduction to Graduate Algorithms – Georgia Tech](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
+- [Intro to Theoretical Computer Science – Sebastian Wernicke](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 - [Intro to Descriptive Statistics – San Jose State University](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
 - [Intro to Inferential Statistics – San Jose State University](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
-- [Intro to Physics – Andy Brown](https://www.udacity.com/course/intro-to-physics--ph100)
 - [Linear Algebra Refresher Course – Chris Pryby](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 - [Differential Equations in Action – Jörn Loviscach, Miriam Swords Kalk](https://www.udacity.com/course/differential-equations-in-action--cs222)
 - [SQL for Data Analysis – Derek Steer, Mode Analysis](https://www.udacity.com/course/sql-for-data-analysis--ud198)
-- [Data Wrangling with MongoDB – Shannon Bradshaw, MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
-- [Database Systems Concepts & Design](https://www.udacity.com/course/database-systems-concepts-design--ud150)
+- [Data Wrangling with MongoDB – Shannon Bradshaw](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
 - [AWS Machine Learning Foundations](https://www.udacity.com/course/aws-machine-learning-foundations--ud090)
-- [AI Fundamentals – Microsoft Azure](https://www.udacity.com/course/ai-fundamentals--ud099)
-- [AWS Machine Learning Scholarship Program](https://www.udacity.com/scholarships/aws-machine-learning-scholarship-program)
-- [Machine Learning Scholarship Program for Microsoft Azure](https://www.udacity.com/scholarships/machine-learning-scholarship-microsoft-azure)
-- [PyTorch Scholarship Challenge from Facebook](https://www.udacity.com/scholarships/facebook-pytorch-scholarship)
-- [The School of Artificial Intelligence](https://www.udacity.com/school-of-ai)
+- [Microsoft Azure AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099)
+- [Scholarships at Udacity](https://www.udacity.com/scholarships)
 
 ### Khan Academy
 - [Algorithms – Thomas H. Cormen and Devin Balkcom, Dartmouth](https://www.khanacademy.org/computing/computer-science/algorithms)
@@ -203,13 +186,36 @@
 - [Differential Equations](https://www.khanacademy.org/math/differential-equations)
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
-## Project Tools
-1. Kaggle
-2. Google Colab
-3. Anaconda CE
-4. Databricks CE
-5. DrivenData
+## Open Resources:rocket:
+### Open Assessments
+1. [RealPython Quizzes](https://realpython.com/quizzes/)
+2. [HackerRank Skills Certification](https://www.hackerrank.com/skills-verification)
+3. [DataCamp Signal](https://www.datacamp.com/signal)
+4. [Workera Data-AI Skills Assessments](https://workera.ai/)
+5. [Data Science Readiness – NotreDameX](https://www.edx.org/course/data-science-readiness-assessment)
 
+### Open Data Science Platforms
+1. [Kaggle Notebooks](https://www.kaggle.com/code)
+2. [Google Colab](https://colab.research.google.com/notebooks/)
+3. [Anaconda IE](https://www.anaconda.com/products/individual)
+4. [Databricks CE](https://databricks.com/product/faq/community-edition)
+
+### Open Data Science Projects
+1. [Kaggle Competitions](https://www.kaggle.com/competitions)
+2. [DrivenData Competitions](https://www.drivendata.org/competitions/)
+3. [AIcrowd Challenges](https://www.aicrowd.com/challenges)
+4. [Call for Code](https://callforcode.org/)
+5. [OpenAI Projects](https://openai.com/projects/)
+6. [Google AI Experiments](https://experiments.withgoogle.com/collection/ai)
+7. [Google Open Source](https://opensource.google/projects/list/machine-learning)
+8. [Microsoft AI Lab](https://www.microsoft.com/en-us/ai/ai-lab-projects)
+9. [Microsoft AI for Earth](https://www.microsoft.com/en-us/ai/ai-for-earth-tech-resources)
+
+### Open Datasets
+1. [Kaggle Datasets](https://www.kaggle.com/datasets)
+2. [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+3. [Appen Curated List](https://appen.com/open-source-datasets/)
+4. [AWS Open Data Registry](https://registry.opendata.aws/)
 
 
   
