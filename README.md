@@ -24,9 +24,11 @@
 
 ### Probabilistic Learning
 1. [Information Theory, Inference and Learning Algorithms – David J.C. Mackay](http://www.inference.org.uk/mackay/itila/)
-2. [Bayesian Reasoning and Machine Learning – David Barber](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
-3. [Gaussian Processes for Machine Learning – Carl Edward Rasmussen, Christopher K.I. Williams](http://www.gaussianprocess.org/gpml/)
-4. [Bayesian Data Analysis – Andrew Gelman, Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/)
+2. [Causal Inference in Statistics: A Primer – Judea Pearl](http://bayes.cs.ucla.edu/PRIMER/)
+3. [Bayesian Reasoning and Machine Learning – David Barber](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
+4. [Probabilistic Machine Learning – Kevin Patrick Murphy](https://probml.github.io/pml-book/)
+5. [Gaussian Processes for Machine Learning – Carl Edward Rasmussen, Christopher K.I. Williams](http://www.gaussianprocess.org/gpml/)
+6. [Bayesian Data Analysis – Andrew Gelman, Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/)
 
 ### Machine Learning with Graphs
 1. [Network Science – Albert-Laszlo Barabasi](http://networksciencebook.com/)
