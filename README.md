@@ -1,5 +1,5 @@
 # Data Science Days
-> The objective of Data Science Days is to make comprehensive and high quality instructional materials easily accesible for everyone to gain in-depth knowledge into the broad data science domain:octocat:
+> The objective of Data Science Days is to make comprehensive and high quality instructional materials easily accesible for anyone entering into the broad data science domain to gain in-depth knowledge:octocat:
 ## List of Ebooks:rocket:
 ### Python Programming
 1. [Learning with Python 3 – Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers](http://www.openbookproject.net/thinkcs/python/english3e/)
