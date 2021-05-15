@@ -14,7 +14,7 @@
 3. [Advanced R – Hadley Wickham](https://adv-r.hadley.nz/)
 4. [An Introduction to Statistical Learning with Applications in R –  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://www.statlearning.com)
 
-### Machine Learning
+### Statistical Learning
 1. [A Course in Machine Learning – Hal Daumé III](http://ciml.info/)
 2. [Pattern Recognition and Machine learning – Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 3. [Mathematics for Machine Learning – Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/)
@@ -22,11 +22,16 @@
 5. [Foundations of Machine Learning – Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar](https://cs.nyu.edu/~mohri/mlbook/)
 6. [Convex Optimization – Lieven Vandenberghe and Stephen P. Boyd](https://web.stanford.edu/~boyd/cvxbook/)
 
-### Probabilistic Models
+### Probabilistic Learning
 1. [Information Theory, Inference and Learning Algorithms – David J.C. Mackay](http://www.inference.org.uk/mackay/itila/)
 2. [Bayesian Reasoning and Machine Learning – David Barber](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
 3. [Gaussian Processes for Machine Learning – Carl Edward Rasmussen, Christopher K.I. Williams](http://www.gaussianprocess.org/gpml/)
 4. [Bayesian Data Analysis – Andrew Gelman, Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/)
+
+### Machine Learning with Graphs
+1. [Network Science – Albert-Laszlo Barabasi](http://networksciencebook.com/)
+2. [Networks, Crowds, and Markets – David Easley and Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/networks-book/)
+3. [Graph Representation Learning – William L Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 ### Deep Learning
 1. [Neural Networks and Deep Learning – Michael A. Nielsen](http://neuralnetworksanddeeplearning.com/)
@@ -38,11 +43,6 @@
 1. [Natural Language Processing with Python – Steven Bird, Ewan Klein, and Edward Loper](https://www.nltk.org/book/)
 2. [Introduction to Natural Language Processing – Jacob Eisenstein](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 3. [Speech and Language Processing – Dan Jurafsky and James H. Martin](https://web.stanford.edu/~jurafsky/slp3/)
-
-### Machine Learning with Graphs
-1. [Network Science – Albert-Laszlo Barabasi](http://networksciencebook.com/)
-2. [Networks, Crowds, and Markets – David Easley and Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/networks-book/)
-3. [Graph Representation Learning – William L Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
 ## Online Learning:rocket:
 ### Free Courses
