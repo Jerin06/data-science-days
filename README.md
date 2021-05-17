@@ -7,27 +7,28 @@
 3. [Elements of Data Science – Allen B. Downey](https://allendowney.github.io/ElementsOfDataScience/README.html)
 4. [Computational & Inferential Thinking – Ani Adhikari and John DeNero](https://inferentialthinking.com/chapters/intro.html)
 5. [Python Data Science Handbook – Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+6. [Mining of Massive Datasets – Jure Leskovec, Anand Rajaraman, Jeff Ullman](http://www.mmds.org/)
 
 ### R Programming
 1. [Hands-On Programming with R – Garrett Grolemund](https://rstudio-education.github.io/hopr/)
-2. [R for Data Science – Hadley Wickham, Garrett Grolemund](https://r4ds.had.co.nz/)
-3. [Advanced R – Hadley Wickham](https://adv-r.hadley.nz/)
-4. [An Introduction to Statistical Learning with Applications in R –  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani](https://www.statlearning.com)
+2. [Advanced R – Hadley Wickham](https://adv-r.hadley.nz/)
+3. [R for Data Science – Hadley Wickham, Garrett Grolemund](https://r4ds.had.co.nz/)
+4. [Introduction to Data Science: Data Analysis and Prediction Algorithms with R – Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
 
 ### Statistical Learning
 1. [A Course in Machine Learning – Hal Daumé III](http://ciml.info/)
-2. [Pattern Recognition and Machine learning – Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
-3. [Mathematics for Machine Learning – Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/)
-4. [Understanding Machine Learning: From Theory to Algorithms – Shai Shalev-Shwartz, Shai Ben David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-5. [Foundations of Machine Learning – Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar](https://cs.nyu.edu/~mohri/mlbook/)
-6. [Convex Optimization – Lieven Vandenberghe and Stephen P. Boyd](https://web.stanford.edu/~boyd/cvxbook/)
+2. [The Hundred-Page Machine Learning Book – Andriy Burkov](http://themlbook.com/)
+3. [Statistical Learning – Trevor Hastie, Robert Tibshirani](https://web.stanford.edu/~hastie/pub.htm)
+4. [Mathematics for Machine Learning – Marc Peter Deisenroth, A. Aldo Faisal, Cheng Soon Ong](https://mml-book.github.io/)
+5. [Understanding Machine Learning: From Theory to Algorithms – Shai Shalev-Shwartz, Shai Ben David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+6. [Foundations of Machine Learning – Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar](https://cs.nyu.edu/~mohri/mlbook/)
 
 ### Probabilistic Learning
-1. [Information Theory, Inference and Learning Algorithms – David J.C. Mackay](http://www.inference.org.uk/mackay/itila/)
+1. [Pattern Recognition and Machine learning – Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 2. [Causal Inference in Statistics: A Primer – Judea Pearl](http://bayes.cs.ucla.edu/PRIMER/)
-3. [Bayesian Reasoning and Machine Learning – David Barber](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
-4. [Probabilistic Machine Learning – Kevin Patrick Murphy](https://probml.github.io/pml-book/)
-5. [Gaussian Processes for Machine Learning – Carl Edward Rasmussen, Christopher K.I. Williams](http://www.gaussianprocess.org/gpml/)
+3. [Information Theory, Inference and Learning Algorithms – David J.C. Mackay](http://www.inference.org.uk/mackay/itila/)
+4. [Gaussian Processes for Machine Learning – Carl Edward Rasmussen, Christopher K.I. Williams](http://www.gaussianprocess.org/gpml/)
+5. [Bayesian Reasoning and Machine Learning – David Barber](http://www.cs.ucl.ac.uk/staff/d.barber/brml/)
 6. [Bayesian Data Analysis – Andrew Gelman, Aki Vehtari](http://www.stat.columbia.edu/~gelman/book/)
 
 ### Machine Learning with Graphs
@@ -35,11 +36,12 @@
 2. [Networks, Crowds, and Markets – David Easley and Jon Kleinberg](http://www.cs.cornell.edu/home/kleinber/networks-book/)
 3. [Graph Representation Learning – William L Hamilton](https://www.cs.mcgill.ca/~wlh/grl_book/)
 
-### Deep Learning
+### Deep Learning and AI
 1. [Neural Networks and Deep Learning – Michael A. Nielsen](http://neuralnetworksanddeeplearning.com/)
 2. [Deep Learning – Ian Goodfellow, Yoshua Bengio, Aaron Courville](http://www.deeplearningbook.org/)
 3. [Dive Into Deep Learning – Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola](https://d2l.ai/)
 4. [Reinforcement Learning: An Introduction – Richard S Sutton](http://incompleteideas.net/book/the-book.html)
+5. [The Quest for Artificial Intelligence: A History of Ideas and Achievements – Nils J. Nilsson](https://ai.stanford.edu/~nilsson/)
 
 ### Natural Language Processing
 1. [Natural Language Processing with Python – Steven Bird, Ewan Klein, and Edward Loper](https://www.nltk.org/book/)
@@ -62,8 +64,8 @@
 - [Machine Learning – StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
 - [Machine Learning – Luis Serrano](https://serrano.academy/machine-learning/)
 - [A 2020 Vision of Linear Algebra – Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
-- [18.06 Linear Algebra – Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
-- [18.065 Matrix Methods – Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+- [MIT18.06 Linear Algebra – Gilbert Strang](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+- [MIT18.065 Matrix Methods – Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - [Learn Differential Equations – Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
 - [Highlights of Calculus – Gilbert Strang](https://www.youtube.com/playlist?list=PLBE9407EA64E2C318)
 - [Essence of Linear Algebra – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -72,13 +74,13 @@
 - [Neural Networks – 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Data Structures and Algorithms – Gerry Jenkins](https://www.youtube.com/user/gjenkinslbcc)
 - [Analysis of Algorithms – Steven Skiena](https://www3.cs.stonybrook.edu/~skiena/373/videos/)
-- [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
-- [MIT 6.046J Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
-- [MIT 6.851 Advanced Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf)
-- [MIT 6.854J Advanced Algorithms](https://www.youtube.com/playlist?list=PLiizAEBnotSzGvn-KqAEQ2xQVDXYw5Rdh)
+- [Algorithms Illuminated – Tim Roughgarden Lectures](https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/playlists)
+- [MIT6.042J Mathematics for Computer Science – Albert R. Meyer](https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ)
+- [Statistics 110: Probability – Joe Blitzstein](https://projects.iq.harvard.edu/stat110/home)
 
 ### Open University Courses
 - [Caltech CS156: Learning From Data](https://work.caltech.edu/telecourse)
+- [CMU Machine Learning – Tom Mitchell](http://www.cs.cmu.edu/~tom/10701_sp11/)
 - [Stanford: NLP with Dan Jurafsky and Chris Manning](https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ)
 - [Stanford CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
