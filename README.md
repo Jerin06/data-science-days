@@ -127,7 +127,7 @@
 - [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
 - [IBM Full Stack Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer)
 - [Data Science with Databricks for Data Analysts Specialization](https://www.coursera.org/specializations/data-science-with-databricks-for-data-analysts)
-- [AWS Fundamentals: Going Cloud-Native](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
+- [AWS Cloud Practitioner Essentials](https://www.coursera.org/learn/aws-cloud-practitioner-essentials)
 - [Microsoft Azure Fundamentals AZ-900 Specialization](https://www.coursera.org/specializations/microsoft-azure-fundamentals-az-900)
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals)
 
