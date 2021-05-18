@@ -104,7 +104,7 @@
 
 ## Popular MOOCs:rocket:
 ### Coursera
-- [AI For Everyone – DeepLearning.AI](https://www.coursera.org/learn/ai-for-everyone)
+- [AI For Everyone – Andrew Ng, DeepLearning.AI](https://www.coursera.org/learn/ai-for-everyone)
 - [Deep Learning Specialization – DeepLearning.AI](https://www.coursera.org/specializations/deep-learning)
 - [Natural Language Processing Specialization – DeepLearning.AI](https://www.coursera.org/specializations/natural-language-processing)
 - [Machine Learning Engineering for Production (MLOps) – DeepLearning.AI](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
