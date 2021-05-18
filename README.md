@@ -100,6 +100,7 @@
 - [NYU DS-GA 1008: Deep Learning – Yann LeCun & Alfredo Canziani](https://atcold.github.io/pytorch-Deep-Learning/)
 - [UCL: Introduction to Reinforcement Learning – David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver)
 - [GeorgiaTech MATH 1554: Linear Algebra – Greg Mayer](https://gatech.instructure.com/courses/114544)
+- [GeorgiaTech ISYE 6739 - Probability and Statistics – Dave Goldsman](https://www2.isye.gatech.edu/~sman/courses/6739/)
 - [Foundations of Machine Learning – David S. Rosenberg, Bloomberg ML EDU](https://bloomberg.github.io/foml)
 
 ## Popular MOOCs:rocket:
