@@ -58,6 +58,8 @@
 6. [Made With ML](https://madewithml.com/)
 7. [Kaggle Tutorials](https://www.kaggle.com/learn)
 8. [ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+9. [Advanced NLP with spaCy](https://course.spacy.io/en)
+10. [Hugging Face course](https://huggingface.co/course/chapter0?fw=pt)
 
 ### YouTube Videos
 - [Statistics Fundamentals – StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)
